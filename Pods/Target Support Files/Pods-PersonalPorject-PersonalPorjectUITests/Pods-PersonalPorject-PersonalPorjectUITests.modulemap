@@ -1,0 +1,6 @@
+framework module Pods_PersonalPorject_PersonalPorjectUITests {
+  umbrella header "Pods-PersonalPorject-PersonalPorjectUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

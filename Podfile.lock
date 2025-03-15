@@ -1,0 +1,20 @@
+PODS:
+  - Alamofire (5.10.2)
+  - IOSSecuritySuite (2.1.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - IOSSecuritySuite
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - IOSSecuritySuite
+
+SPEC CHECKSUMS:
+  Alamofire: 7193b3b92c74a07f85569e1a6c4f4237291e7496
+  IOSSecuritySuite: 45e8531b05ffa72b5661cbdb5b5b5648a8de1a84
+
+PODFILE CHECKSUM: 50c903db140452ee8a8c9c5d465fc7b687075116
+
+COCOAPODS: 1.16.2
